@@ -5,7 +5,7 @@
     {
         Tesla = 1,
         Toyota = 2,
-        BYD = 3
+        BY  D = 3
     }
     public class Vehiculo
     {
